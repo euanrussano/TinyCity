@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<buildings>
+	<building>
+		<id>1</id>
+		<name>House</name>
+		<resourcesProduced>
+		    <resource>
+		        <name>Population</name>
+		        <amount>1</amount>
+		    </resource>
+		</resourcesProduced>
+	</building>
+	<building>
+		<id>2</id>
+		<name>Farm</name>
+		<resourcesProduced>
+		    <resource>
+		        <name>Food</name>
+		        <amount>1</amount>
+		    </resource>
+		</resourcesProduced>
+	</building>
+	<building>
+		<id>3</id>
+		<name>Stone Mine</name>
+		<resourcesProduced>
+		    <resource>
+		        <name>Metal</name>
+		        <amount>1</amount>
+		    </resource>
+		</resourcesProduced>
+	</building>
+	<building>
+		<id>4</id>
+		<name>Woodcutter</name>
+		<resourcesProduced>
+		    <resource>
+		        <name>Wood</name>
+		        <amount>1</amount>
+		    </resource>
+		</resourcesProduced>
+	</building>
+	<building>
+		<id>5</id>
+		<name>Tower</name>
+		<resourcesProduced>
+		</resourcesProduced>
+	</building>
+</buildings>
